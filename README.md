@@ -1,21 +1,4 @@
-# Community Forum & Q&A Site Tutorial
-
-<div align="center">
-  <br />
-  <a href="https://youtu.be/_sSTzz13tVY" target="_blank">
-    <img src="https://github.com/machadop1407/social-media-vite-supabase/blob/main/public/thumb.png" alt="Project Banner">
-  </a>
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  </div>
-  <h3 align="center">Build a Modern Social Media Website</h3>
-  <br />
-</div>
+# Social Media app
 
 ## 📋 Table of Contents
 
@@ -25,12 +8,6 @@
 4. [Quick Start](#quick-start)
 5. [Code Snippets](#code-snippets)
 6. [Assets & More](#assets--more)
-
-## 🚀 Introduction
-
-In this video tutorial, you'll learn how to build a fully featured community forum and Q&amp;A site using modern web technologies. We’ll cover everything from real-time interactions and GitHub authentication to stunning glassy UI elements with glowing gradient effects. This project is perfect for developers who want to dive into building dynamic, interactive, and beautifully designed web applications.
-
-
 
 ## ⚙️ Tech Stack
 
