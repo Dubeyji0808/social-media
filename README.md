@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </div>
   <h3 align="center">Build a Modern Social Media Website</h3>
-  <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/_sSTzz13tVY" target="_blank"><b>YouTube</b></a>
-  </div>
   <br />
 </div>
 
@@ -34,7 +30,7 @@
 
 In this video tutorial, you'll learn how to build a fully featured community forum and Q&amp;A site using modern web technologies. We’ll cover everything from real-time interactions and GitHub authentication to stunning glassy UI elements with glowing gradient effects. This project is perfect for developers who want to dive into building dynamic, interactive, and beautifully designed web applications.
 
-Watch the tutorial on [YouTube](https://youtu.be/_sSTzz13tVY).
+
 
 ## ⚙️ Tech Stack
 
@@ -155,18 +151,3 @@ FOR DELETE
 USING (auth.uid()::text = user_id);
 ```
 
-## 🎨 Assets & More
-
-- **Tutorial Video:**  
-  [Watch on YouTube](https://youtu.be/_sSTzz13tVY)
-
-- **Design Inspiration & Assets:**  
-  Explore additional assets and design inspirations [here](https://drive.google.com/file/d/your-assets-link).
-
-## 🚀 More
-
-If you enjoyed this tutorial, check out our other projects and advanced courses to further improve your development skills.
-
----
-
-Happy coding and thanks for watching!
